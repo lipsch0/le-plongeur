@@ -5,8 +5,8 @@ HTML Entity (hex)	&#x6070;
 
 How to type in Microsoft Windows	Alt +6070
 
-UTF-8 (hex)	        0xE6 0x81 0xB0 (e681b0)
-UTF-8 (binary)	        11100110:10000001:10110000
+UTF-8  (hex)	        0xE6 0x81 0xB0 (e681b0)
+UTF-8  (binary)	        11100110:10000001:10110000
 UTF-16 (hex)	        0x6070 (6070)
 UTF-16 (decimal)	24.688
 UTF-32 (hex)	        0x00006070 (6070)
