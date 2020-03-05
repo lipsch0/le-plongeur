@@ -18,12 +18,12 @@ construite: 1818 - 1819
 
 [root@localhost]
 >_
-5 7 0 B    國 nation, country, nation-state
-5 B B 6    家 house, home, residence; family
-7 D 0 0    紀 record, annal, historical account
-7 8 9 1    碑 stone tablet; gravestone
+  5 7 0 B    國 nation, country, nation-state
+  5 B B 6    家 house, home, residence; family
+  7 D 0 0    紀 record, annal, historical account
+  7 8 9 1    碑 stone tablet; gravestone
 
-5 7 F A    基 foundation, base
-7 9 0 E    礎 foundation stone, plinth
-5 9 5 1    契 deed, contract, bond; engrave
-7 D 0 4    約 treaty, agreement, covenant
+  5 7 F A    基 foundation, base
+  7 9 0 E    礎 foundation stone, plinth
+  5 9 5 1    契 deed, contract, bond; engrave
+  7 D 0 4    約 treaty, agreement, covenant
